@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMaSHS APP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_video_recorder">Video Recorder</string>
+    <string name="insert_email">Enter your registered email</string>
+    <string name="insert_password">Enter your password</string>
+    <string name="submit_button">Submit</string>
+    <string name="title_activity_flash_light">FlashLight</string>
+    <string name="title_activity_activation">Activate SMaSHS</string>
+    <string name="title_activity_notification">SM</string>
+
+</resources>

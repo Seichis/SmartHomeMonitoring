@@ -1,0 +1,12 @@
+package dto;
+
+/**
+ * Enums for actions.
+ * 
+ * @author Mikkel
+ * 
+ */
+
+public enum ACTION {
+	ALARM_ACTION, VIDEORECORD_ACTION, SOUNDPLAY_ACTION, EMAILSEND_ACTION, STREAM_ACTION, NON_SENSOR_ACTION, ACCEL_SENSOR_ACTION, LIGHT_SENSOR_ACTION;
+}
